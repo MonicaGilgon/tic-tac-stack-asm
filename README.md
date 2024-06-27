@@ -9,6 +9,7 @@ La primera fase implementa el tic tac toe que se conoce de manera general en don
 <p align="center">  
 <img src="https://github.com/MonicaGilgon/tic-tac-stack-asm/issues/1" />
 </p>
+
 ## SEGUNDA FASE:
 <p align="center">  
 <img src="https://github.com/MonicaGilgon/tic-tac-stack-asm/issues/2" />
