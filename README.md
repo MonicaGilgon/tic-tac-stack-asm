@@ -6,9 +6,9 @@ El juego utiliza la consola como interfaz de usuario, permite a los jugadores al
 Pueden encontrar 2 versiones del juego:
 ## PRIMERA VERSIÓN:
 La primera fase implementa el tic tac toe que se conoce de manera general en donde su lógica de juego es por turnos ir poniendo en casillas X u O hasta formar una línea de 3 de la misma figura, logrando así vencer en el juego.
-<p align="center">  
-<img src="https://github.com/MonicaGilgon/tic-tac-stack-asm/issues/1" />
-</p>
+
+(https://github.com/MonicaGilgon/tic-tac-stack-asm/issues/1)
+
 
 ## SEGUNDA FASE:
 <p align="center">  
